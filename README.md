@@ -1,2 +1,2 @@
 This is a README file for the alx-pre_course repository.
-glad being hee
+glad being her
